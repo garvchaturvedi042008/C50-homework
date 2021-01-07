@@ -1,1 +1,1 @@
-# C50-homework
+# pj_50
